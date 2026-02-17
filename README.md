@@ -14,7 +14,7 @@ country codes to nationalities with search and formatting utilities.
 ## Installation
 
 ```bash
-composer require arraypress/nationalities
+composer require arraypress/wp-nationalities
 ```
 
 ## Basic Usage
